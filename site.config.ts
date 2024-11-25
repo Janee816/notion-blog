@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'neizai',
   domain: 'naizai.link',
-  author: 'Janee',
+  author: 'Janee宜笑',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
