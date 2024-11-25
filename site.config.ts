@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Tarot',
+  name: '卡牌历史功能，分类、原理与实际运用',
   domain: 'naizai.link',
   author: 'Janee',
 
