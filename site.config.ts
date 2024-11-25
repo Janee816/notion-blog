@@ -2,14 +2,14 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '86a53361ad304a509a7e932ad7dac862?pvs=4',
+  rootNotionPageId: '14916646d5a38055a458ef7a67c61b46?pvs=4',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '卡牌历史功能，分类、原理与实际运用',
+  name: 'neizai',
   domain: 'naizai.link',
   author: 'Janee',
 
